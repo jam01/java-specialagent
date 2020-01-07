@@ -602,6 +602,17 @@
       </modules>
     </profile>
     <profile>
+      <id>mule-4</id>
+      <activation>
+        <property>
+          <name>all</name>
+        </property>
+      </activation>
+      <modules>
+        <module>mule-4.2.2/container-itest</module>
+      </modules>
+    </profile>
+    <profile>
       <id>default</id>
       <activation>
         <file>
