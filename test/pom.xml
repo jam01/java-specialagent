@@ -609,7 +609,7 @@
         </property>
       </activation>
       <modules>
-        <module>mule-4.2.2</module>
+        <module>mule-4.2.2/container-itest</module>
       </modules>
     </profile>
     <profile>
